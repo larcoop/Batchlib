@@ -15,6 +15,10 @@
 #   Sample 1: Show this script help
 #   > lar-help.sh --help
 #
+
+#..................................................................................
+# The main entry point for the script
+#
 main()
 {
     # shows the script version

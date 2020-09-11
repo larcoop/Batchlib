@@ -10,6 +10,10 @@
 # Remarks:
 #   TODO
 #
+
+#..................................................................................
+# The main entry point for the script
+#
 main()
 {
     WISH='"C:/Program Files/Git/mingw64/bin/wish.exe" '
